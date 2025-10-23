@@ -1,8 +1,8 @@
-# Jit-Opt-Quant: A High-Performance Walk-Forward Optimization Framework
+# LaVon's High-Performance Walk-Forward Optimization Framework
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Jit-Opt-Quant is a quantitative research framework for discovering, backtesting, and validating ensemble trading strategies. It is designed to mitigate overfitting by combining a Numba-JIT compiled event-driven backtester with a robust Walk-Forward Optimization (WFO) engine.
+This algorithm is a quantitative research framework for discovering, backtesting, and validating ensemble trading strategies. It is designed to mitigate overfitting by combining a Numba-JIT compiled event-driven backtester with a robust Walk-Forward Optimization (WFO) engine.
 
 This framework functions as a "strategy factory" that runs a "tournament" to compare numerous strategy combinations, identifying the most robust performers on out-of-sample data.
 
@@ -58,8 +58,8 @@ You will need a Python environment and the libraries listed in `requirements.txt
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Jit-Opt-Quant.git](https://github.com/YourUsername/Jit-Opt-Quant.git)
-    cd Jit-Opt-Quant
+    git clone [https://github.com/YourUsername/Algorithmic_Trading_System.git](https://github.com/YourUsername/Algorithmic_Trading_System.git)
+    cd Algorithmic_Trading_System
     ```
 
 2.  Install the required packages. It is highly recommended to use a virtual environment.
