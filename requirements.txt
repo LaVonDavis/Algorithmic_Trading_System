@@ -1,0 +1,5 @@
+pandas
+numpy
+numba
+scikit-optimize
+joblib
